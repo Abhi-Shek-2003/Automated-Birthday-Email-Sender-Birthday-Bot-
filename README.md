@@ -1,5 +1,4 @@
-# Automated-Birthday-Email-Sender-Birthday-Bot-
-
+# Automated-Birthday-Email-Sender-BirthdayBot
 An automated system to send designed birthday wishes via Microsoft Outlook using dynamic employee data, personalized cards, and custom placements.
 
 ---
